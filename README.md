@@ -1,6 +1,6 @@
 # python
 This repository contains python training notes.
-<h3 style="font-family: cursive;">Chapters: </h3>
+<h3>Chapters: </h3>
 <ol>
     <li>
         Variables
@@ -9,58 +9,68 @@ This repository contains python training notes.
             <li>Variables</li>
             <li>Numbers</li>
             <li>String</li>
-            <li>String - Slicing, Indexing</li>  
+            <li>String - Slicing, Indexing</li>
             <li>String - Operators</li>
             <li>String replacement</li>
-            <li>String fString and Interpolation</li> 
-            <li></li>Operators</li>
+            <li>String fString and Interpolation</li>
+            <li>Operators</li>
         </ol>
     </li>
     <li>
         Data Structures
-        i. Lists\
-        ii. Dictionaries\
-        iii. Tuples\
-        iv. Sets and Bools
-        v. File I/O\
-        vi. Practice Resources\
+        <ol type="i">
+            <li>Lists</li>
+            <li>Dictionaries</li>
+            <li>Tuples</li>
+            <li>Sets and Bools
+            <li>File I/O</li>
+            <li>Practice Resources</li>
+        </ol>
     </li>
-    <li> 
-        Control Flow 
-        i. Statements\
-        ii. Loops \
-        iii. Boolean Expressions\
-        iv. Range Operators\
-        v. Iterators\
-        v. List Comprehension\
-        vi. Miscellaneous\
+    <li>
+        Control Flow
+        <ol type="i">
+            <li>Statements</li>
+            <li>Loops </li>
+            <li>Boolean Expressions</li>
+            <li>Range Operators</li>
+            <li>Iterators</li>
+            <li>List Comprehension</li>
+            <li>Miscellaneous</li>
+        </ol>
     </li>
-    <li> 
-        Methods and Functions 
-        i. Functions
-        ii. Lambda Expressions, Maps and Filters\
-        iii. Nested Statements and Scope\
+    <li>
+        Methods and Functions
+        <ol type="i">
+            <li>Functions
+            <li>Lambda Expressions, Maps and Filters</li>
+            <li>Nested Statements and Scope</li>
+        </ol>
     </li>
-    <li> 
-        OOP - Object oriented programming 
-        i. Basics
-        ii. Class Object, Attributes and Methods\
-        iii. Inheritance and Ploymorphism\
-        iv. Special (Magic/Dunder) methods\
+    <li>
+        OOP - Object oriented programming
+        <ol type="i">
+            <li>Basics
+            <li>Class Object, Attributes and Methods</li>
+            <li>Inheritance and Ploymorphism</li>
+            <li>Special (Magic/Dunder) methods</li>
+        </ol>
     </li>
-    <li> 
-        Pandas 
-        i. Introduction to Pandas\
-        ii. Plots, Line and Scatter graphs\
-        iii. Plots, Bar and Histograms\
-        iv. Pandas, Sorting and Subsetting\
-        v. Summary, Statistics and Counting\
-        vi. Explicit indexes\
-        vii. Slicing and Subsetting with loc and iloc\
-        viii. Pivot Tables\
-        ix. Visualizing data\
-        x. Missing values and Data manipulation\
-        xi. Data Frames\
-        xii. Reading and Writing CSVs\
+    <li>
+        Pandas
+        <ol type="i">
+            <li>Introduction to Pandas</li>
+            <li>Plots, Line and Scatter graphs</li>
+            <li>Plots, Bar and Histograms</li>
+            <li>Pandas, Sorting and Subsetting</li>
+            <li>Summary, Statistics and Counting</li>
+            <li>Explicit indexes</li>
+            <li>Slicing and Subsetting with loc and iloc</li>
+            <li>Pivot Tables</li>
+            <li>Visualizing data</li>
+            <li>Missing values and Data manipulation</li>
+            <li>Data Frames</li>
+            <li>Reading and Writing CSVs</li>
+        </ol>
     </li>
 </ol>
