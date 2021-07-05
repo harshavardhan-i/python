@@ -17,7 +17,7 @@ This repository contains python training notes.
         </ol>
     </li>
     <li>
-        Data Structures
+        <b> Data Structures </b>
         <ol type="i">
             <li>Lists</li>
             <li>Dictionaries</li>
@@ -28,7 +28,7 @@ This repository contains python training notes.
         </ol>
     </li>
     <li>
-        Control Flow
+        <b> Control Flow  </b>
         <ol type="i">
             <li>Statements</li>
             <li>Loops </li>
@@ -40,7 +40,7 @@ This repository contains python training notes.
         </ol>
     </li>
     <li>
-        Methods and Functions
+        <b> Methods and Functions  </b>
         <ol type="i">
             <li>Functions
             <li>Lambda Expressions, Maps and Filters</li>
@@ -48,7 +48,7 @@ This repository contains python training notes.
         </ol>
     </li>
     <li>
-        OOP - Object oriented programming
+        <b>OOP - Object oriented programming </b>
         <ol type="i">
             <li>Basics
             <li>Class Object, Attributes and Methods</li>
@@ -57,7 +57,7 @@ This repository contains python training notes.
         </ol>
     </li>
     <li>
-        Pandas
+        <b>Pandas </b>
         <ol type="i">
             <li>Introduction to Pandas</li>
             <li>Plots, Line and Scatter graphs</li>
