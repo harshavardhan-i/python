@@ -37,3 +37,15 @@ Chapters:\
         iii. Inheritance and Ploymorphism\
         iv. Special (Magic/Dunder) methods\
     6. Pandas\
+        i. Introduction to Pandas\
+        ii. Plots, Line and Scatter graphs\
+        iii. Plots, Bar and Histograms\
+        iv. Pandas, Sorting and Subsetting\
+        v. Summary, Statistics and Counting\
+        vi. Explicit indexes\
+        vii. Slicing and Subsetting with loc and iloc\
+        viii. Pivot Tables\
+        ix. Visualizing data\
+        x. Missing values and Data manipulation\
+        xi. Data Frames\
+        xii. Reading and Writing CSVs\
