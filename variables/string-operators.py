@@ -1,0 +1,6 @@
+# Print("Hello" "there" "I" "am" "harsh") … another way of concatenating string literals
+# Print( "hello" * 5) … prints hello five times
+# Print("hello" * 5 + 4)… throws an error using precedence multiplication happens first and then adding a string to an int throws error… strongly typed languages
+
+# In operator…
+# "fri" in "Friday" - this will return true…
