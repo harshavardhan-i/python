@@ -1,0 +1,23 @@
+# from matplotlib import pyplot as plt
+# import matplotlib.pyplot as plt... same thing
+
+# Histograms...
+# df["col"].hist(), df["col"].hist(bins=80) - plots histogram
+# plt.show() - shows graph
+# df.plot(kind="bar") - plots a bar graph with the dataframe with categorical data and numeric data...
+# df.plot(kind="bar", title="Adds title") - Adds title to the plot
+
+# Line plots...
+# Good for numeric value observation over time...
+# df.plot(x="xcol", y="ycol", kind="line") - draws a line graph
+# df.plot(x="xcol", y="ycol", kind="line", rot=45) - rotates xaxis labels by 45 degree
+
+# Scatter plots...
+# Good for visualizing relationship between two numeric variables...
+# df.plot(x="xcol", y="ycol", kind="scatter") - draws a line graph
+
+# df[use conditional subsetting 1 ].hist() , df[use conditional subsetting 2 ].hist() - In this case the graphs are drawn on top of each other...
+# plt.legend([1 , 2 ]) - for plotting legends for both the histograms  
+# df[use conditional subsetting].hist(alpha=0.7) - makes the graph translucent, 0 means completely invisible and 1 being opaque 
+
+# df.groupby("colName1")["colName2"].sum() - gives the sum
