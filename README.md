@@ -1,9 +1,9 @@
 # python
 This repository contains python training notes.
 
-Chapters:
-    1. Variables
-        i. Introduction
+Chapters:\
+    1. Variables\
+        i. Introduction\
         ii. Variables
         iii. Numbers
         iv. String
