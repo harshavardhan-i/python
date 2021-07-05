@@ -1,4 +1,4 @@
-### Chapters:
+### Chapters
  1. **Variables**        
     * Introduction
     * Variables
