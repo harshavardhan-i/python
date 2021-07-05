@@ -3,7 +3,7 @@ This repository contains python training notes.
 <h3>Chapters: </h3>
 <ol>
     <li>
-        <strong> Variables </strong>
+        <b> Variables </b>
         <ol type="i">
             <li>Introduction</li>
             <li>Variables</li>
